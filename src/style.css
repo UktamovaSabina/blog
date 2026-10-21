@@ -1,6 +1,6 @@
 /* Change --accent to give your blog its own color. */
 :root {
-  --accent: pink;
+  --accent: red;
   --bg: #ffffff;
   --text: #1c2a2c;
   --muted: #5c7a80;
@@ -9,8 +9,8 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0f1c1e;
-    --text: #e6f0f0;
+    --bg: pink;
+    --text: red;
     --muted: #9fc1c1;
     --card: #162a2d;
   }
