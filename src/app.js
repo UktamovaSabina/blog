@@ -1,6 +1,8 @@
 // app.js: draws the page in the browser. The logic (search, sort, dates) is in blog.js.
 // Text from the data files is always put in with textContent, never as HTML.
 
+// by sabina 
+
 (function () {
   const state = { site: null, posts: [], query: "", tag: "" };
 
